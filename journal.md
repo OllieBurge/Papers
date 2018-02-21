@@ -1,8 +1,9 @@
 # Authors
-Oliver Burge 
+Oliver Burge
+Jonh Smith
 
 #Title
-Second organic aerosol measurements over West Africa.
+Model measurement comparison of organic aerosol measurements over West Africa.
 
 #Introduction 
 We present measurements of SOA from aircraft over West Africa.
