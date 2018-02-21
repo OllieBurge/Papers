@@ -20,5 +20,11 @@ John as a greta model which simulates particle formation from forest fire emissi
 # Methodology
 We used an aerosol mass scpectometer to meaure aerosol composition and mass.
 
+
+#Results
+We got valuable insight into the particle formation process.
+
 #Conclusions 
 Arent we great we found out some stuff.
+
+
