@@ -16,3 +16,6 @@ Ofcourse, J.Smith et al made some great measurements in the 1980s in this region
 
 #Simulations
 John as a greta model which simulates particle formation from forest fire emissions.
+
+# Methodology
+We used an aerosol mass scpectometer to meaure aerosol composition and mass.
